@@ -73,15 +73,15 @@ export const projectsData = [
     live: "https://swiftline.onrender.com/",
     code: "https://github.com/iamjabeed/realtime-chat",
   },
-  {
-    title: " Digital Portfolio",
-    description:
-      "Engineered and launched a sleek and responsive personal portfolio website,effectively showcasing my expertise, projects, and accomplishments.",
-    tags: ["Next.js", "Typescript", "Tailwind", "Framer"],
-    imageUrl: portfolio,
-    live: "https://jabeed.vercel.app/",
-    code: "https://jabeed.vercel.app/",
-  },
+  // {
+  //   title: " Digital Portfolio",
+  //   description:
+  //     "Engineered and launched a sleek and responsive personal portfolio website,effectively showcasing my expertise, projects, and accomplishments.",
+  //   tags: ["Next.js", "Typescript", "Tailwind", "Framer"],
+  //   imageUrl: portfolio,
+  //   live: "https://jabeed.vercel.app/",
+  //   code: "https://jabeed.vercel.app/",
+  // },
   {
     title: "The Filmagic",
     description:
