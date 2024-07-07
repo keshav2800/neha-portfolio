@@ -24,7 +24,7 @@ export default function About() {
         <p className="mb-4">
           <span className="font-bold text-4xl leading-10">I</span> am embarking
           on a transformative journey as a{" "}
-          <span className="font-bold underline">Computer Science (CSE) </span>
+          <span className="font-bold underline">Computer Science (CSAI) </span>
           graduate  from NSIT, Delhi, I&apos;ve woven my passion for web development into the
           fabric of my freelance career. Building and fixing things, especially
           in the dynamic world of the web, bring me genuine joy.
